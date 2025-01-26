@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Apurva Raj
 - 👀 I’m interested in coding, web development, and exploring new technologies.
-- 🌱 I’m currently learning C programming and Web Developmnet(HTML,CSS & JavaScript)
+- 🌱 I’m currently learning C programming and Web Development(HTML,CSS & JavaScript)
 - 📫 How to reach me: apurvaraj1205@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I’m a night owl who loves coding late at night.
